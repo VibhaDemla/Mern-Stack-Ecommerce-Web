@@ -1,6 +1,6 @@
 # MERN E-COMMERCE TUTORIAL
 
-Hi! My name is **Vibha Demla**, I have created this tutorial to learn MERN Stack.
+Hi! My name is **Vibha Demla**, I have made this project to learn MERN Stack.
 
 # Install Dependencies
 
@@ -10,7 +10,7 @@ Hi! My name is **Vibha Demla**, I have created this tutorial to learn MERN Stack
 
 ## Env Variables
 
-Create a config.env file in backend/config directory and add appropriate variables in order to use the app.
+config.env file in backend/config directory and add appropriate variables in order to use the app.
 
 **Essential Variables**
 PORT=
